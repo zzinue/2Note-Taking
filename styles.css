@@ -7,6 +7,12 @@ body{
     background: linear-gradient(to right bottom,#b40eca, #ce7d03 );
 
 }
+h1{
+    background: linear-gradient(to right bottom,#b40eca, #ce7d03 );
+    display: flex;
+    justify-content: center;
+    color: rgb(241, 201, 201);
+}
 
 #main{
     min-height: 100vh;
